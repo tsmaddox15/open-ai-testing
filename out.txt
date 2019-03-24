@@ -1,0 +1,1 @@
+<__main__.Tee object at 0x000002004C257940>
