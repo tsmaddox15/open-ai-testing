@@ -24,8 +24,14 @@ Open-Ai doesn't support windows without an environment. The environment we used 
 * [Python 3.5+](https://www.python.org/downloads/)
 
 ***
-
 #### Linux:
-Open-Ai
+Open-Ai Linux has full support for Open-Ai.
+##### Steps to set up:
+1. Pip install gym
+2. Go to directory that contains project and run the follow:
+   * python main.py
+     - Note: Requires python 3. If you have 2 and 3 on your system replace python with python3 in the command..
+
+***
 
 ***
